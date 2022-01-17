@@ -1,9 +1,11 @@
-// CHRISTMAS TREE Code in C language
+// CHRISTMAS TREE Variation 1 | Code in C language
+// ----------------------------------------------------------------
+// Using Boxes increasing exponentially
 
 #include<stdio.h>
-#include<conio.h>
 
-void main() // Function for Christmas tree
+// Main Function
+void main()
 {
     printf("\n       --- Merry Christmas ---      \n\n"); // Random Text at the beginning
     for (int b = 1; b <= 5; b++) // Box loop
